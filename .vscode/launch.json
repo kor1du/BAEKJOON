@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\3. 반복문\\13. 1110.js",
+      "program": "${workspaceFolder}\\4. 1차원 배열\\1. 10818.js",
       "console": "integratedTerminal"
     }
   ]
