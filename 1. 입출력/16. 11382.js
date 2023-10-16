@@ -7,7 +7,6 @@ const rl = readline.createInterface({
 
 let input = [];
 rl.on('line', (line) => {
-	console.log(line);
 	input = line.split(' ');
 	rl.close();
 });
